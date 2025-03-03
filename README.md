@@ -1,2 +1,0 @@
-# classicrigor
- Land Page - Loja de Aluguel de Roupas  Este repositório contém o código-fonte de uma página inicial (landing page) para uma loja de aluguel de roupas. A página foi desenvolvida com o objetivo de proporcionar uma experiência visual atraente e funcional, permitindo aos usuários navegar facilmente pelas opções de aluguel de roupas. A landing page inclui seções como catálogo de produtos, informações sobre os serviços, depoimentos de clientes e formulários de contato.
